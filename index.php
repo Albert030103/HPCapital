@@ -1,22 +1,11 @@
-<?php echo '<?xml version="1.0" encoding="iso-8859-15" ?>'; ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140777917-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-140777917-1');
-</script>
 
 <title>HingePoint Capital</title>
 
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta charset=UTF-8" />
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 
